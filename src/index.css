@@ -75,6 +75,7 @@ footer {
 }
 
 /* Products Section */
+
 .products {
   display: flex;
   flex-wrap: wrap;
@@ -132,3 +133,21 @@ footer {
 .button.primary {
   background-color: #f0c040;
 }
+
+/* End Product Section */
+
+/* Start Filter Section */
+
+.filter {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom: .1rem solid #c0c0c0;
+}
+
+.filter div {
+  flex: 1;
+}
+
+/* End Filter Section */
