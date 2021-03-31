@@ -4,7 +4,7 @@
             "_id": "dress1",
             "title": "Midi sundress with shirring detail",
             "image": "https://www.maison-alaia.com/49/49634111fj_999_c.jpg",
-            "descrption": "about dress 1",
+            "description": "about dress 1",
             "price": 19,
             "availableSizes": ["XL", "XXL"]
         },
